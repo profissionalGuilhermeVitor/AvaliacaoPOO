@@ -1,0 +1,30 @@
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.exe
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.deps.json
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.runtimeconfig.json
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.dll
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.pdb
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.csproj.AssemblyReference.cache
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.AssemblyInfoInputs.cache
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.AssemblyInfo.cs
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.csproj.CoreCompileInputs.cache
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.dll
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\refint\ConsoleAppHelice.dll
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.pdb
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.genruntimeconfig.cache
+C:\Users\pexim\Documents\Matérias da faculdade\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ref\ConsoleAppHelice.dll
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.exe
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.deps.json
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.runtimeconfig.json
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.dll
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\bin\Debug\net6.0\ConsoleAppHelice.pdb
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.csproj.AssemblyReference.cache
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.AssemblyInfoInputs.cache
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.AssemblyInfo.cs
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.csproj.CoreCompileInputs.cache
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.dll
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\refint\ConsoleAppHelice.dll
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.pdb
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ConsoleAppHelice.genruntimeconfig.cache
+C:\Users\pexim\Documents\Matérias da faculdade\2023-1\POO\Segunda Prova_Testes e Trabalho Final\Lista de Exercicios\Lista_reposta_e_programas\ConsoleAppHelice\ConsoleAppHelice\obj\Debug\net6.0\ref\ConsoleAppHelice.dll
